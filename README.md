@@ -15,7 +15,7 @@ Learn the English people actually use: slang, real scenes and AI characters you 
 - **iOS:** Swift, SwiftUI, UIKit, Objective-C, Combine, async/await, XCTest
 - **Android:** Kotlin, Jetpack Compose
 - **Backend:** Django, Firebase (Auth, Firestore, Cloud Functions, Remote Config, App Check), TypeScript
-- **Also:** watchOS, WidgetKit, RevenueCat, CI/CD
+- **Also:** Unity, watchOS, WidgetKit, RevenueCat, CI/CD
 
 ### Elsewhere
 
