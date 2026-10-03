@@ -12,7 +12,7 @@ Learn the English people actually use: slang, real scenes and AI characters you 
 
 ### Stack
 
-- **iOS:** Swift, SwiftUI, UIKit, Objective-C, Combine, async/await, XCTest
+- **iOS:** Swift, SwiftUI, UIKit, Objective-C, Combine, Metal, async/await, XCTest
 - **Android:** Kotlin, Jetpack Compose
 - **Backend:** Django, Firebase (Auth, Firestore, Cloud Functions, Remote Config, App Check), TypeScript
 - **Also:** Unity, watchOS, WidgetKit, RevenueCat, CI/CD
