@@ -22,12 +22,16 @@ Learn the English people actually use: slang, real scenes and AI characters you 
 [Google Play](https://play.google.com/store/apps/details?id=com.vologirov.linqo)
 [vologirovdigital.com/linqo](https://vologirovdigital.com/linqo?src=github)
 
-### Stack
+### Linqo Stack
 
-- **iOS:** Swift, SwiftUI, UIKit, Objective-C, Combine, Metal, async/await, XCTest
-- **Android:** Kotlin, Jetpack Compose
-- **Backend:** Django, Firebase (Auth, Firestore, Cloud Functions, Remote Config, App Check), TypeScript
-- **Also:** Unity, watchOS, WidgetKit, RevenueCat, CI/CD
+- **iOS:** Swift, SwiftUI, UIKit, Combine, async/await, Metal, XCTest
+- **Android:** Kotlin, Jetpack Compose, Coroutines
+- **Shared core:** Swift, swift-java, JNI
+- **Backend:** TypeScript, Node.js, Firebase (Auth, Firestore, Cloud Functions, Storage, Remote Config, App Check, Cloud Messaging)
+- **AI & voice:** OpenAI, ElevenLabs, Apple Speech, AVFoundation
+- **Apple Watch:** watchOS, Watch Connectivity, WidgetKit
+- **Payments:** RevenueCat, YooKassa
+- **CI/CD:** GitHub Actions
 
 ### Elsewhere
 
