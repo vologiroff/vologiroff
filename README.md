@@ -18,10 +18,6 @@ Learn the English people actually use: slang, real scenes and AI characters you 
   <img src="assets/linqo/07-league.webp" width="23%" alt="Linqo: earn points and climb the league">
 </p>
 
-[App Store](https://apps.apple.com/us/app/linqo-learn-real-english/id6764823350)
-[Google Play](https://play.google.com/store/apps/details?id=com.vologirov.linqo)
-[vologirovdigital.com/linqo](https://vologirovdigital.com/linqo?src=github)
-
 ### Linqo Stack
 
 - **iOS:** Swift, SwiftUI, UIKit, Combine, async/await, Metal, XCTest
@@ -33,6 +29,7 @@ Learn the English people actually use: slang, real scenes and AI characters you 
 - **Payments:** RevenueCat, YooKassa
 - **CI/CD:** GitHub Actions
 
-### Elsewhere
-
+[App Store](https://apps.apple.com/us/app/linqo-learn-real-english/id6764823350)
+[Google Play](https://play.google.com/store/apps/details?id=com.vologirov.linqo)
+[vologirovdigital.com/linqo](https://vologirovdigital.com/linqo?src=github)
 [Instagram](https://www.instagram.com/vologirov_/)
